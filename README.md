@@ -4,8 +4,8 @@ Mod management tools for 7 Days To Die
 
 ## Mod Installer
 
-Documentation: 
+Documentation: https://github.com/flatlanderone/flatlander-modding/issues/5
 
 ## Mod Library
 
-Documentation: 
+Documentation: https://github.com/flatlanderone/flatlander-modding/issues/6
